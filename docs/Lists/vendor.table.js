@@ -347,7 +347,7 @@ export const vendors = [
     	type: "Components",
     	city: "Delhi",
     	url: "https://akinfotools.com",
-    	address: "3rd & 4th Floor, 12A/31 JPS Bluiding Beside Bank Of India, Near Persona, Saraswati Marg Karol Bagh, New Delhi-110005",
+    	address: "3rd & 4th Floor, 12A/31 JPS Bluiding Beside Bank Of India, Near Persona, Saraswati Marg Karol Bagh, New Delhi - 110005",
     },
     // {
     //	name: "",
